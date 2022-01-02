@@ -1,2 +1,7 @@
 # DS-Projects
-Yandex practicum projects
+Yandex practicum projects.
+
+Repository contains completed projects.
+
+
+
